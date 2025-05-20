@@ -1,2 +1,4 @@
 dataset
 dataset_split
+checkpoints
+best_custom_cnn.pth
